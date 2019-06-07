@@ -1,0 +1,14 @@
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\bin\Debug\netcoreapp2.2\TheBackend.deps.json
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\bin\Debug\netcoreapp2.2\TheBackend.runtimeconfig.json
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\bin\Debug\netcoreapp2.2\TheBackend.runtimeconfig.dev.json
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\bin\Debug\netcoreapp2.2\TheBackend.dll
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\bin\Debug\netcoreapp2.2\TheBackend.pdb
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.csprojAssemblyReference.cache
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.csproj.CoreCompileInputs.cache
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.RazorAssemblyInfo.cache
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.RazorAssemblyInfo.cs
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.AssemblyInfoInputs.cache
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.AssemblyInfo.cs
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.RazorTargetAssemblyInfo.cache
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.dll
+C:\Users\togbemudia\source\repos\TheBackend\TheBackend\obj\Debug\netcoreapp2.2\TheBackend.pdb
